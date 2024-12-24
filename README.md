@@ -1,4 +1,4 @@
 # Nitish-coder
-this is a first-Repository
+This is my first Git Repository.
 <br>
 Author - NitishGupta
